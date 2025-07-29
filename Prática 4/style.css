@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/*essa propriedade serve para prevenir erros de acentuação*/
+body {
+    background-image: linear-gradient(10deg, red, orange, yellow, green, blue, purple);
+}
+p {
+    color: darkgreen;
+}
